@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(rgba(0, 0, 255, 0.979), 10%, rgba(83, 112, 240, 0.74));
+}
+
+.caja{
+    
+    width: 500px;
+    height: 500px;
+    padding: 25px;
+    margin: 40px;
+   
+}
+
+.caja2{
+    
+    font-size: 20px;
+    width: 500px;
+    height: 500px;
+    padding: 25px;
+    margin: 40px;
+    
+}
+
+.principalbox{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(202, 199, 199);
+}
+
+h2{
+    color: #1c0330cb;
+     background: linear-gradient(#5c4cf3, #8807f1);
+    border-radius: 1rem;
+    margin-right: 10rem;
+}
+p{
+    color: white;
+}
