@@ -19,23 +19,46 @@ body{
     padding: 25px;
     margin: 40px;
     
+    
+    
 }
 
 .principalbox{
     display: flex;
     justify-content: center;
+
+   
+    
+    
+
 }
 
 h1{
     color: rgb(202, 199, 199);
 }
 
-h2{
+h3{
     color: #1c0330cb;
      background: linear-gradient(#5c4cf3, #8807f1);
     border-radius: 1rem;
     margin-right: 10rem;
+    font-size: 1.5rem;
 }
 p{
     color: white;
+}
+
+.contenedor{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    justify-content: center;
+}
+
+.q{
+    text-align: center;
+}
+
+.f{
+    text-align: center;
 }
